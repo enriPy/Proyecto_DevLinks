@@ -35,7 +35,7 @@ Este proyecto fue desarrollado con las siguientes tecnologías:
 
 DevLinks es un agregador de enlaces para usar como tarjeta de presentación en línea.
 
-- [Accede al proyecto finalizado, en línea](https://maykbrito.github.io/devlinks)
+- [Accede al proyecto finalizado, en línea](https://github.com/enriPy/Proyecto_DevLinks)
 
 - [Ver las clases](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
